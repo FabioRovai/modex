@@ -1,6 +1,10 @@
 # modex
 
-## Sample of exsisting labelling 
+
+
+## Step 0:
+Extract details
+
 
 
 
