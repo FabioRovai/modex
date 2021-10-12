@@ -1,5 +1,10 @@
 # modex
 
+## Sample of exsisting labelling --> we ll do this much better
+
+
+![alt text](https://miro.medium.com/max/1400/0*HC6gJ8FO4Uo1Td0X)
+
 ## Step 1:
 Autolabelling
 ![alt text](https://uploads-ssl.webflow.com/5cf12d0aeca6753441cb765c/615ae9d50080824a022e8509_SHIRT-1.png)
