@@ -12,6 +12,11 @@
 ![alt text](https://miro.medium.com/max/2000/1*jjsoLIWRNxDXOD_dui85lg.png)
 
 
+[SmallDataset](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/)
+
+
+![alt text](https://www.pyimagesearch.com/wp-content/uploads/2018/04/keras_multi_label_dataset.jpg)
+
 
 ## Step 1:
 Autolabelling
