@@ -1,9 +1,17 @@
 # modex
 
-## Sample of exsisting labelling --> we ll do this much better
+## Sample of exsisting labelling 
 
 
-![alt text](https://miro.medium.com/max/1400/0*HC6gJ8FO4Uo1Td0X)
+
+[DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html )
+
+[Medium](https://towardsdatascience.com/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc)
+
+
+![alt text](https://miro.medium.com/max/2000/1*jjsoLIWRNxDXOD_dui85lg.png)
+
+
 
 ## Step 1:
 Autolabelling
