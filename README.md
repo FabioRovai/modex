@@ -1,5 +1,5 @@
 # modex
-
+[shared doc](https://docs.google.com/document/d/1lPTMbKce802x8hnFbb0dDuWAARuUbzqrVfesveHHA9s/edit )
 
 
 ## Step 0:
