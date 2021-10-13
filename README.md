@@ -5,7 +5,22 @@
 ## Step 0:
 Extract details
 
+## Tutorial 
 
+
+
+[Tensorflow tutorial](https://www.tensorflow.org/tutorials/images/classification)
+```
+flower_photo/
+  daisy/
+  dandelion/
+  roses/
+  sunflowers/
+  tulips/
+  ```
+[Datataset](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
+
+## Examples 
 
 
 [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html )
