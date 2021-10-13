@@ -20,6 +20,11 @@ flower_photo/
   ```
 [Datataset](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
 
+## Beta
+
+
+Colab: https://colab.research.google.com/drive/1fscQkTqlS2Q1ezJuUayynazeRHUMdh5M?usp=sharing
+
 ## Examples 
 
 
